@@ -1,15 +1,16 @@
 #====================================================
 # Filename: Prob2.py 
 # 
-# Your name:
-# Who did you work with (if anyone)?:
-# Estimate for time spent (in hrs)?:
+# Your name: Jake Grossman
+# Who did you work with (if anyone)?:none
+# Estimate for time spent (in hrs)?: 5 min
 #====================================================
 
 
 # Define negate here
 
-
+def negate(n):
+    return "un" + n
 
 
 
@@ -19,7 +20,8 @@
 
 # Define intensify here
 
-
+def intensify(n):
+    return "plus" + n
 
 
 
@@ -30,7 +32,8 @@
 # Define reinforce here
 
 
-
+def reinforce(n):
+    return "double" + n
 
 
 
